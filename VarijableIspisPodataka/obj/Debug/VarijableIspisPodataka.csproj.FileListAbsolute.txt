@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\VarijableIspisPodataka\VarijableIspisPodataka\obj\Debug\VarijableIspisPodataka.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\VarijableIspisPodataka\VarijableIspisPodataka\obj\Debug\VarijableIspisPodataka.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\VarijableIspisPodataka\VarijableIspisPodataka\obj\Debug\VarijableIspisPodataka.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\VarijableIspisPodataka\VarijableIspisPodataka\bin\Debug\VarijableIspisPodataka.exe.config
+C:\Users\ucenik\source\repos\VarijableIspisPodataka\VarijableIspisPodataka\bin\Debug\VarijableIspisPodataka.exe
+C:\Users\ucenik\source\repos\VarijableIspisPodataka\VarijableIspisPodataka\bin\Debug\VarijableIspisPodataka.pdb
+C:\Users\ucenik\source\repos\VarijableIspisPodataka\VarijableIspisPodataka\obj\Debug\VarijableIspisPodataka.exe
+C:\Users\ucenik\source\repos\VarijableIspisPodataka\VarijableIspisPodataka\obj\Debug\VarijableIspisPodataka.pdb
